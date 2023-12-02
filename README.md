@@ -72,6 +72,4 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 
 ## License
 This project is licensed under the MIT License.
-```css
 
-Remember to replace placeholder content with accurate and specific details about your project. Additionally, if your project has specific setup instructions or additional details, make sure to include them in the README.
