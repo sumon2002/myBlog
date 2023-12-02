@@ -59,10 +59,10 @@ To get a local copy of the project up and running, follow these steps:
    -After registration, log in with your credentials.
 3. **Create a Post:**
 
-   -Click on the "New Post" button to create a new blog post.
+   -Click on the "Create Blog" button to create a new blog post.
 4. **Edit or Delete Posts:**
 
-   -Manage your posts through the "My Posts" section.
+   -Manage your posts through the "My Blog" section.
 5. **Logout:**
 
    -Logout when you're done using the application.
