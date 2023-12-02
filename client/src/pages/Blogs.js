@@ -16,7 +16,9 @@ const Blogs = () => {
   // Get blogs from server
   const getAllBlogs = async () => {
     try {
-      const { data } = await axios.get("/api/v1/blog/all-blog");
+      const { data } = await axios.get(
+        "https://blog-backend-fwlq.onrender.com/api/v1/blog/all-blog"
+      );
       if (data?.success) {
         setBlogs(data?.blogs);
       }
